@@ -4,6 +4,7 @@ Welcome to the official repository for Natron Tech AG's brand assets. This repos
 
 ## Contents
 
+- `media/`: This directory contains various media assets, such as icons and images
 - `logo/`: This directory contains the Natron Tech AG logo
 
 ## How to Use
